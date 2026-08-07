@@ -45,19 +45,18 @@ The **Personal Expense Tracker** is a dynamic web application designed to help u
 Want to run or modify this project on your own machine? Follow these simple steps:
 
 **1. Clone the repository**
-  ``bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/gayatriirajput7-cmyk/Expense_tracker.git](https://github.com/gayatriirajput7-cmyk/Expense_tracker.git)
+cd Expense_tracker
 
 
 ## Install dependencies
 Ensure you have Python installed, then run:
-    ``bash
-   pip install -r requirements.txt
+   bash
+   [pip install -r requirements.txt]
 
-## Run the application
- ``bash
- streamlit run app.py
+## Run the application**
+ bash
+ [streamlit run app.py]
 
  🌐 Deployment
 This application is deployed entirely in the cloud and accessible to anyone.
